@@ -1,0 +1,20 @@
+{
+  "name": "tiled-import-csv",
+  "version": "1.0.0",
+  "description": "A simple Tiled extension to import a brush layer via CSV.",
+  "devDependencies": {
+    "@mapeditor/tiled-api": "^1.8.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luxmiyu/tiled-import-csv.git"
+  },
+  "keywords": [
+    "javascript",
+    "tiled-map-editor",
+    "extensions"
+  ],
+  "author": "luxmiyu",
+  "license": "MIT",
+  "homepage": "https://github.com/luxmiyu/tiled-import-csv"
+}
